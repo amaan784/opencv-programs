@@ -1,4 +1,4 @@
-# OpenCV programs
+# OpenCV and Pillow programs
  A bunch of OpenCV programs in Python
 
 - Change color of images
