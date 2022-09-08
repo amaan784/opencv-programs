@@ -6,3 +6,5 @@
 - Take a video and store it
 - Calculate FPS
 - Create a timed picture
+- Distance Calculator
+- Speed Calculator
